@@ -1,1 +1,1 @@
-# github_test
+ github_testGitHubの機能を試すためのリポジトリです。
